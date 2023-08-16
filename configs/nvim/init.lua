@@ -1,0 +1,1 @@
+require("cm66Configs")
