@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Kill all running instances
-killall waybar
+#killall waybar
 
 #----------------------------------
 # Load the config
@@ -26,6 +26,6 @@ swww img "${wallpapers[$wallpapers_randomIndex]}" --transition-step 20 --transit
 
 # must be run last
 path="~/Downloads/Git/Arch-Hyprland-Env/configsV2/waybar/"
-exec waybar -c ~/Downloads/Git/Arch-Hyprland-Env/configsV2/waybar/config -s ~/Downloads/Git/Arch-Hyprland-Env/configsV2/waybar/style.css
+#exec waybar -c ~/Downloads/Git/Arch-Hyprland-Env/configsV2/waybar/config -s ~/Downloads/Git/Arch-Hyprland-Env/configsV2/waybar/style.css
 #
 

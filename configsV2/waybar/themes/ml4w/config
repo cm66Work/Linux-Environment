@@ -19,7 +19,7 @@
     "spacing": 0,
 
     // Load Modules
-    "include": ["~/dotfiles/waybar/modules.json"],
+    "include": ["~/Downloads/Git/Arch-Hyprland-Env/configsV2/waybar/modules.json"],
 
     // Modules Left
     "modules-left": [
