@@ -2,8 +2,8 @@
 My current Linux Environment.
 
 ## Install
-backup files in ~/.config/
-copy the .config files into ~/.config/
+backup files in ~/.config
+copy the .config files into ~/.config
 
 ## Configs
 
