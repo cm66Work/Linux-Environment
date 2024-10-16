@@ -1,6 +1,9 @@
-# Arch-Hyprland-Env
-My current Arch Hyperland desktop environment
+# Linux Environment.
+My current Linux Environment.
 
+## Install
+backup files in ~/.config/
+copy the .config files into ~/.config/
 
 ## Configs
 
